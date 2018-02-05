@@ -2,47 +2,47 @@ apiVersion: v1
 entries:
   loyaltylevelchart:
   - apiVersion: v1
-    created: 2018-02-04T23:34:55.121338395-08:00
+    created: 2018-02-04T23:44:20.021697775-08:00
     description: A Helm chart for Kubernetes
-    digest: 675346630a616375b7cd5872b0cb93ab4d9f4a778f2352c4c2d0bdcafadef18c
+    digest: 1aeff70adf435d5eca10b25398a480d553eb893542013baeaf0e4e69d7adc215
     name: loyaltylevelchart
     urls:
-    - https://ibm-pek77.github.io/mychart/loyaltylevelchart-0.1.0.tgz
+    - https://ibmcc-pek77.github.io/mycharts/loyaltylevelchart-0.1.0.tgz
     version: 0.1.0
   notificationchart:
   - apiVersion: v1
-    created: 2018-02-04T23:34:55.121654454-08:00
+    created: 2018-02-04T23:44:20.02190857-08:00
     description: A Helm chart for Kubernetes
     digest: 628aa61fd6058571200c803fef50dcde2f41807ce7bf83e1ac635a12e72bf7e0
     name: notificationchart
     urls:
-    - https://ibm-pek77.github.io/mychart/notificationchart-0.1.0.tgz
+    - https://ibmcc-pek77.github.io/mycharts/notificationchart-0.1.0.tgz
     version: 0.1.0
   portfoliochart:
   - apiVersion: v1
-    created: 2018-02-04T23:34:55.122164269-08:00
+    created: 2018-02-04T23:44:20.022247113-08:00
     description: A Helm chart for Kubernetes
-    digest: 69840e10aa03f4424de051fe88e61ff81e6cf5f0cea39e9f446ba3a4d3fb9cb9
+    digest: 1c623c2a0f4b5bac42c54dd0dbacd5783181c966180db6103f16e31a0e9f5a5f
     name: portfoliochart
     urls:
-    - https://ibm-pek77.github.io/mychart/portfoliochart-0.1.0.tgz
+    - https://ibmcc-pek77.github.io/mycharts/portfoliochart-0.1.0.tgz
     version: 0.1.0
   stockquotechart:
   - apiVersion: v1
-    created: 2018-02-04T23:34:55.12261942-08:00
+    created: 2018-02-04T23:44:20.022482989-08:00
     description: A Helm chart for Kubernetes
-    digest: fde2817285a20041b97cfc5ea33db515a7fe0ba5da4c65da048e8ebba4ba1726
+    digest: 863e41045ba185c19857e75054acdcd07094a421355912f78137fb98de080ee5
     name: stockquotechart
     urls:
-    - https://ibm-pek77.github.io/mychart/stockquotechart-0.1.0.tgz
+    - https://ibmcc-pek77.github.io/mycharts/stockquotechart-0.1.0.tgz
     version: 0.1.0
   traderchart:
   - apiVersion: v1
-    created: 2018-02-04T23:34:55.122877774-08:00
+    created: 2018-02-04T23:44:20.023121439-08:00
     description: A Helm chart for Kubernetes
-    digest: 1b1df88c87bee6f9171f76629f7e2cc30cfb33461cd1cc9f0e7bef1731bafbd6
+    digest: d60f42b3b29cd5298701ec3764e4c3ac58fcf87f74b1b6f12cd172db5cb83130
     name: traderchart
     urls:
-    - https://ibm-pek77.github.io/mychart/traderchart-0.1.0.tgz
+    - https://ibmcc-pek77.github.io/mycharts/traderchart-0.1.0.tgz
     version: 0.1.0
-generated: 2018-02-04T23:34:55.120575273-08:00
+generated: 2018-02-04T23:44:20.021373861-08:00

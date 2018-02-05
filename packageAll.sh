@@ -6,4 +6,4 @@ helm package traderchart/charts/portfoliochart/
 helm package traderchart/charts/portfoliochart/charts/stockquotechart
 helm package traderchart/charts/portfoliochart/charts/loyaltylevelchart
 mv -f *.tgz docs
-helm repo index docs --url https://wtistangdev.github.io/mycharts
+helm repo index docs --url https://ibmcc-pek77.github.io/mychart
